@@ -1,3 +1,15 @@
-name: Hank Quinlan, Horrible Cop
+title: Bruce Rannala @ UC Davis -> Department of Evolution and Ecology
+email: brannala@ucdavis.edu
+description: > # this means to ignore newlines until "baseurl:"
+  A population geneticist developing statistical inference
+  methods, writing code, and teaching human genetics.
+
+theme: minima
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://rannala.org" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: BruceRannala
+github_username:  brannala
+
 markdown: kramdown
 
