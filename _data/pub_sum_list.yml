@@ -1,0 +1,27 @@
+pub_sum_list_title: By Topic (with commentary)
+docs:
+
+- title: Allele age inference
+  url: /alleleages/
+
+- title: Bayesian phylogenetic inference
+  url: /bayesianphylogenetics/
+
+- title: Cancer genetics
+  url: /cancergenetics/
+
+- title: Linkage disequilibrium mapping
+  url: /ldmapping/
+
+- title: Recombination rate inference
+  url: /recombination/
+
+- title: Species delimitation
+  url: /speciesdelimitation
+  
+- title: Species divergence time inference
+  url: /divergencetime/
+  
+- title: Species tree inference
+  url: /specietrees/
+
