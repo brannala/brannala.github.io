@@ -5,14 +5,15 @@ title: People
 permalink: /people/
 ---
 
--   [Bruce Rannala](http://www.rannala.org/?page_id=111 "Bruce Rannala (PI)") (PI)
+-   [Bruce Rannala](/brucerannala/ "Bruce Rannala (PI)") (PI)
 
 ### Graduate students
 -   Sneha Chakraborty (Ph.D. student in Biostatistics)
 
 ### Former graduate students
+-   Huiyu Sun (M.S. Biostatistics) Data Analyst, Immune Tolerance Network, Washington, DC
 -   Rattanasak Wongkomonched (Ph.D. student, Chiang Mai University \[co-supervisor\])
--   [Chi Zhang](https://sites.google.com/view/zhangchicool/home "Chi Zhang") (visiting CAS Ph.D. student 2010-2012) Associate Professor, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, Beijing.
+-   [Chi Zhang](https://sites.google.com/view/zhangchicool/home "Chi Zhang") (visiting CAS Ph.D. student 2010-2012) Associate Professor, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, Beijing
 -   Ying Wang (Ph.D. 2009) Associate Scientist, Beijing Institute of
     Genomics, Chinese Academy of Sciences
 -   [Kanokkan Bumroongkit](http://www.med.cmu.ac.th/dept/anatomy/staff_kanokkan.html) (Ph.D.
@@ -33,7 +34,7 @@ permalink: /people/
 ### Former postdocs
 -   Anna Guan (Postdoc 2011-2013) Data Quality Scientist, [23andMe](https://www.23andme.com/)
 -   [Badri Padhukasahasram](https://www.researchgate.net/profile/Badri_Padhukasahasram)
-    (Postdoc 2010-2012) Bioinformatics Scientist, Illumina
+    (Postdoc 2010-2012) Bioinformatics Scientist, [Illumina](https://www.illumina.com/)
 -   [Adam Leache](http://faculty.washington.edu/leache/wordpress/)
     (Postdoc 2008-2010) Associate Professor, Department of Biology,
     University of Washington
