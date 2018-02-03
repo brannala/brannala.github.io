@@ -16,8 +16,7 @@
 title: Bruce Rannala @ UC Davis -> Department of Evolution and Ecology
 email: brannala@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I am a population geneticist. I develop statistical inference 
-  methods, write code, and teach human genetics.
+  I am a population geneticist creating statistics, writing code and teaching human genetics.
 
 theme: minima
 
@@ -29,6 +28,7 @@ github_username:  brannala
 collections:
   pub_summary:
     output: true
+
 
 # Build settings
 markdown: kramdown
