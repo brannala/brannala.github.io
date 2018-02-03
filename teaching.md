@@ -5,6 +5,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+## Courses at UC Davis
+
 ### EVE 231. Principles of Biological Data Analysis
 
 (3) Lecture--2 hours; laboratory--3 hours.
@@ -31,3 +33,5 @@ issues will be discussed. [EVE 131 Course Notes](http://rannala.org/books/EVE131
 structure and function, including the genetic basis of human
 development, causes of birth defects, mental retardation, genetic
 diseases, sexual determination, development, and behavior. GE credit: SciEng.
+
+## International Courses
