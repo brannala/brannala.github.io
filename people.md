@@ -13,7 +13,7 @@ permalink: /people/
 ### Former graduate students and postdocs
 -   Rattanasak Wongkomonched (Ph.D. student, Chiang Mai University \[co-supervisor\])
 -   Anna Guan (Postdoc 2011-2013) Data Quality Scientist, [23andMe]
--   [Chi Zhang](https://sites.google.com/site/zhangchicool/ "Chi Zhang") (visiting CAS Ph.D. student 2010-2012) Postdoc, D-BSSE, ETH Zürich. Switzerland.
+-   [Chi Zhang](https://sites.google.com/view/zhangchicool/home "Chi Zhang") (visiting CAS Ph.D. student 2010-2012) Postdoc, D-BSSE, ETH Zürich. Switzerland.
 -   [Badri Padhukasahasram](https://www.researchgate.net/profile/Badri_Padhukasahasram)
     (Postdoc 2010-2012) Bioinformatics Scientist, Illumina
 -   [Adam Leache](http://faculty.washington.edu/leache/wordpress/)
