@@ -12,5 +12,3 @@ plugins_dir: [jekyll-scholar]
       <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
    {% endfor %}
 </ul>
-
-x
