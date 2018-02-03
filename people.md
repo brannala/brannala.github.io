@@ -31,7 +31,7 @@ permalink: /people/
 -   Bixia Ji (M.S. 2000 \[incomplete\]) Senior Software Engineer, [Declara](https://www.declara.com)
 
 ### Former postdocs
--   Anna Guan (Postdoc 2011-2013) Data Quality Scientist, [23andMe]
+-   Anna Guan (Postdoc 2011-2013) Data Quality Scientist, [23andMe](https://www.23andme.com/)
 -   [Badri Padhukasahasram](https://www.researchgate.net/profile/Badri_Padhukasahasram)
     (Postdoc 2010-2012) Bioinformatics Scientist, Illumina
 -   [Adam Leache](http://faculty.washington.edu/leache/wordpress/)
