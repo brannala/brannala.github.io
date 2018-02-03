@@ -12,7 +12,7 @@ permalink: /people/
 
 ### Former graduate students
 -   Rattanasak Wongkomonched (Ph.D. student, Chiang Mai University \[co-supervisor\])
--   [Chi Zhang](https://sites.google.com/view/zhangchicool/home "Chi Zhang") (visiting CAS Ph.D. student 2010-2012) Postdoc, D-BSSE, ETH Zürich. Switzerland.
+-   [Chi Zhang](https://sites.google.com/view/zhangchicool/home "Chi Zhang") (visiting CAS Ph.D. student 2010-2012) Associate Professor, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences, Beijing.
 -   Ying Wang (Ph.D. 2009) Associate Scientist, Beijing Institute of
     Genomics, Chinese Academy of Sciences
 -   [Kanokkan Bumroongkit](http://www.med.cmu.ac.th/dept/anatomy/staff_kanokkan.html) (Ph.D.
