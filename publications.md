@@ -17,6 +17,6 @@ plugins_dir: [jekyll-scholar]
 
 ### All Papers
 
-{% bibliography --file rannala  %}
+
 
 [Bruce Rannala on Google Scholar]: https://scholar.google.com/citations?user=rgw5bacAAAAJ
