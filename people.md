@@ -39,7 +39,7 @@ permalink: /people/
     University of Washington
 -   Greg Wilson (Postdoc 2001-2003) Wildlife Biologist, Canadian
     Wildlife Service, Environment Canada
--   [Jeff Reeve](http://atagc.med.ualberta.ca/Admin/Personnel/ComputationalBiologyandBiostatistics/Reeve/Pages/default.aspx)
+-   [Jeff Reeve](https://www.ualberta.ca/medicine/institutes-centres-groups/atagc/administration/personnel/computational-biology-and-biostatistics/jeff-reeve-phd)
     (Postdoc 2000-2005) Team Leader, Computational Biology and Biostatistics, Alberta Transplant Applied Genomics Centre, University of Alberta
 -   [XueJun Qin](http://dmpi.duke.edu/faculty/michael-hauser-phd) (Postdoc 1999-2001) Biostatistician, Duke Molecular Physiology Institute (Hauser Lab), 
 Duke University
