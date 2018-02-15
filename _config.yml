@@ -33,10 +33,11 @@ collections:
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# exclude:
+#  - Gemfile
+#  - Gemfile.lock
+
 plugins_dir: [jekyll-scholar,bibtex-ruby,citeproc-ruby,csl-styles]
 
