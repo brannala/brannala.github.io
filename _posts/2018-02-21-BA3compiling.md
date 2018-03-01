@@ -148,9 +148,39 @@ bruce$ cp /Users/bruce/gsl-2.2.1/gsl-2.2.1/libsX86_64/libgsl.19.dylib ~/BA3/lib6
 bruce$ cp /Users/bruce/gsl-2.2.1/gsl-2.2.1/libsi386/libgsl.19.dylib ~/BA3/lib32
 bruce$ cd ~/BA3 
 ```
-For each of the binaries we need to specify the new path to the shared library. This is done using the unix `otool` program. First, we examine the current path for 32-bit library:
+For each of the binaries and the dynamic libraries we need to specify the new path to the shared library. This is done using the unix `install_name_tool` program. First, we examine the current path for 32-bit library using the unix `otool`:
 ```
-bruce$ otool -D ~/BA3/lib32/libgsl.19.dylib
+bruce$ otool -L ~/BA3/lib32/libgsl.19.dylib
 /Users/bruce/BA3/lib32/libgsl.19.dylib:
 /usr/local/lib/libgsl.19.dylib
+bruce$ otool -L ~/BA3/BA3i386 | grep libgsl
+	usr/local/lib/libgsl.19.dylib (compatibility version 22.0.0, current version 22.0.0)
 ```
+We will distribute the 32-bit library in a local subdirectory name lib32 so we change the path for the 32-bit library first:
+```
+bruce$ install_name_tool -id "@executable_path/lib32/libgsl.19.dylib" ~/BA3/lib32/libgsl.19.dylib
+bruce$ otool -L ~/BA3/lib32/libgsl.19.dylib | grep libgsl
+/Users/bruce/BA3/lib32/libgsl.19.dylib:
+	@executable_path/lib32/libgsl.19.dylib (compatibility version 22.0.0, current version 22.0.0)
+```
+Next, we change the path for the 32-bit executable:
+```
+bruce$ install_name_tool -change /usr/local/lib/libgsl.10.dylib @executable_path/lib32/libgsl.19.dylib BA3i386
+bruce$ otool -L ~/BA3/BA3i386 | grep libgsl
+	@executable_path/lib32/libgsl.19.dylib (compatibility version 22.0.0, current version 22.0.0)
+```
+We apply the same procedures to change the paths for the 64-bit library and executable. Now we use `lipo` to create a
+universal binary:
+```
+bruce$ lipo -create BA3X86_64 BA3i386 -o BA3u
+bruce$ lipo -info BA3u
+Architectures in the fat file: BA3u are: x86_64 i386
+```
+That is it! Now we combine the binary and libraries into a zip file for distribution:
+```
+bruce$ zip BA3.zip BA3u lib32 lib64
+  adding: BA3u (deflated 62%)
+  adding: lib32/ (stored 0%)
+  adding: lib64/ (stored 0%)
+```
+
