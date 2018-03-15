@@ -35,3 +35,7 @@ development, causes of birth defects, mental retardation, genetic
 diseases, sexual determination, development, and behavior. GE credit: SciEng.
 
 ## International Courses
+
+EMBL-EBI and Welcome Trust Course in [Computational Molecular Evolution](https://www.ebi.ac.uk/training/events/2017/computational-molecular-evolution) at EBI Hinxton (offered in alternate years)
+
+EMBO Practical Course in [Computational Molecular Evolution](http://events.embo.org/16-computational-evolution/) at Heraklion, Greece (offered in alternate years)
