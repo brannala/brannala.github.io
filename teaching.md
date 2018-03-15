@@ -36,6 +36,8 @@ diseases, sexual determination, development, and behavior. GE credit: SciEng.
 
 ## International Courses
 
-EMBL-EBI and Welcome Trust Course in [Computational Molecular Evolution](https://www.ebi.ac.uk/training/events/2017/computational-molecular-evolution) at EBI Hinxton (offered in alternate years)
+EMBL-EBI and Welcome Trust Course in [Computational Molecular Evolution](https://www.ebi.ac.uk/training/events/2017/computational-molecular-evolution) at EBI Hinxton, UK (offered in alternate years)
 
 EMBO Practical Course in [Computational Molecular Evolution](http://events.embo.org/16-computational-evolution/) at Heraklion, Greece (offered in alternate years)
+
+Bodega Bay [Applied Phylogenetics Workshop](http://treethinkers.org/), Bodega Bay Marine Lab, Bodega Bay, CA USA (offered each Spring)
