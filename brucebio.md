@@ -23,10 +23,10 @@ pushing out the [occupying Soviet forces](https://en.wikipedia.org/wiki/Occupati
 That summer, thousands of Estonians were executed including virtually all the Jews who had remained in 
 Estonia rather than leaving with the departing Soviet forces. 
 My father was 7 years old when his father died. 
-Aleksander had been a rum-runner in the coastal village of [Vinistu](https://en.wikipedia.org/wiki/Viinistu) where my father grew up. 
+Aleksander had been a rum-runner in the coastal village of [Viinistu](https://en.wikipedia.org/wiki/Viinistu) where my father grew up. 
 During the [1920s prohibition period](https://en.wikipedia.org/wiki/Prohibition#Nordic_countries) he smuggling Estonian vodka by sea to Finland.
-As one of the so-called "Vodka Kings," Alexander did well enough for he and Ines to have their family farm in Vinistu while spending winters
-in the capitol Tallin where my uncles attended secondary school at a French lycee. 
+As one of the so-called "Vodka Kings," Alexander did well enough for he and Ines to have their family farm in Viinistu while spending winters
+in the capital Tallin where my uncles attended secondary school at a French lycee. 
 He met his wife-to-be Ines through her brothers who were business associates on the Finnish side. 
 
 Ines settled in East Vancouver where she worked as a seamstress in a textile factory. She operated a boarding house as well before
@@ -50,7 +50,8 @@ I attended school in Port McNeill. The schools at that time were not very good b
 however, and spent a lot of my time working after school. I was precocious and by age 11 had a job assembling toy exhibits at a department store. I switched to pumping gas and repairing tires at the
 local Shell station when I was 12 and worked weekends entirely on my own which seems unthinkable now. I cannot remember ever having done homework as a child. I bought a 
 motorcycle and, as was usual in that town, rode it unlicensed on the logging roads. I was involved in a motorcycle accident with a crew bus when I was 15 and sustained a 
-compound fracture of both bones in my lower left leg. I missed most of that school year as I was in and out of the hospital in Vancouver for surgeries. 
+compound fracture of both bones in my lower left leg. The injury was very serious and my parents and I were asked to choose between an amputation or a long and difficult surgery
+that might not be successful. We chose surgery and I missed most of that school year as I was in and out of the hospital in Vancouver for the surgeries which were ultimately successful. 
 
 # My early adulthood
 I graduated from North Island Secondary School ([NISS](https://northislandsecondary.edublogs.org/)) in 1982. My graduating class included about 80 students, fewer than a dozen of whom went on to college.
@@ -71,7 +72,7 @@ initially planned to attend college first and then transfer in third year. Howev
 directly to UBC as a mature student. This may have been somewhat self-interest on her part as it meant we would be living closer to one another. 
 I applied as a mature student, wrote an entrance exam and was admitted. 
 In retrospect, the advice was good as it allowed me a greater opportunity to get
-to know my professors during my first two years which in turn allowed me to get involved in research projects as an undergraduate. I was initially pre-med. I don't remember my motivations except that I was
+to know my professors during my first two years which in turn allowed me to get involved in research projects as an senior undergraduate. I was initially pre-med. I don't remember my motivations except that I was
 probably idealistic and felt drawn to a humanitarian profession. What I do remember is that I wanted to be in a position that did not require me to ask my clients to pay for my services.
 Obviously that greatly restricted the possibilities. To be perfectly honest, I was completely unaware at that point that professors existed whose sole job was teaching and research. 
 
