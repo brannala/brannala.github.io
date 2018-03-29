@@ -26,6 +26,7 @@ Git (git) is a great tool for maintaining prior versions of your source code (or
 This program (derived from Don Knuth’s TeX program) is ideal for writing manuscripts that use a lot of equations. I wrote my PhD in LaTeX and so have most of my graduate students. A tutorial, list of symbols, etc, can be found [here](http://www.artofproblemsolving.com/Wiki/index.php/LaTeX:Basics "LaTeX").
 
 **Getting that ugly DOS ^M newline character out of your text files**
+
 I collaborate with quite a few people who use Windows and seem to be unaware that their Windows text editor is littering our shared text files with ^M DOS style carriage returns.
 Here is a useful emacs command to strip all the ^M characters out replacing them with a unix newline:
 ```
