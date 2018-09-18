@@ -37,7 +37,7 @@ he learned English by reading books with the help of a dictionary. One consequen
 to me when I was a child.
 At least that is the excuse that I use. 
 
-At 16, my father Ivar began working as a crew hand (eventually becoming a helmsman) on [Union Steamships](https://en.wikipedia.org/wiki/Union_Steamship_Company_of_British_Columbia) 
+At 16, my father Ivar began working as a crew hand (eventually becoming a quartermaster) on [Union Steamships](https://en.wikipedia.org/wiki/Union_Steamship_Company_of_British_Columbia) 
 delivering passengers and freight to 
 the logging and mining camps of British Columbia. In his mid-twenties he completed a course as a radio technician and eventually specialized in selling and servicing radio equipment used by the logging industry.
 My father married my mother Rayna at about this time. My maternal grandfather had emigrated to B.C. from Saskatchewan during the great depression. After earning a modest income as a gold miner working
