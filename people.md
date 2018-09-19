@@ -19,9 +19,8 @@ permalink: /people/
 -   [Kanokkan Bumroongkit](http://www.med.cmu.ac.th/dept/anatomy/staff_kanokkan.html) (Ph.D.
     2008, co-supervisor) Assistant Professor, Chiang Mai University,
     Thailand
--   [Karen Cranston](http://blog.opentreeoflife.org/karen-cranston/)
-    (PhD 2007) Bioinformatics Project Manager, NESCent. PI, Open Tree of
-    Life Project.
+-   [Karen Cranston](http://kcranston.github.io/)
+    (Phd 2007) Bioinformatics Technical Advisor, Biological Informatics Centre of Excellence at Agriculture and Agri-Food Canada.
 -   [Ligia Mateiu](https://www.uantwerpen.be/nl/personeel/ligia-mateiu/) (Ph.D.
     2006) Bioinformatics Team Leader, VIB Department of Molecular
     Genetics, Universiteit Antwerpen, Belgium.
