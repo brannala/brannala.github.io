@@ -6,4 +6,4 @@ permalink: /brucerannala/
 ---
 
 <img src="/assets/bruce2018-3.jpg" alt="Drawing" style="width: 500px;" />  
-[Biography](/rannalabio/) | [Curriculum vitae](/assets/RannalaCV2017.pdf) | [NSF Biosketch](/assets/RannalaNSFBiosketch.pdf) | [#FIRSTGEN](https://firstgen.ucdavis.edu/directory)
+[Curriculum vitae](/assets/RannalaCV2017.pdf) | [NSF Biosketch](/assets/RannalaNSFBiosketch.pdf) | [#FIRSTGEN](https://firstgen.ucdavis.edu/directory)

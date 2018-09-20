@@ -21,6 +21,15 @@ BPP  version 4 now under development at [github.com/bpp/](https://github.com/bpp
 Current stable release of command line program BPP (Version 3.4) [Download](http://abacus.gene.ucl.ac.uk/software.html).
 
 # Graphical User Interface for BPP (BPPg)
+A graphical user interface for the BPP program that allows visualization of the posterior distribution of species trees and provides tools for
+preparing input files and running BPP. This is the first release of the program (version 0.2.0.a released 14.05.2017) and is not yet mature so every feature may not work and bugs exist.
+
+[Download for Mac](http://rannala.org/programs/BPPgOSX.0.2.0.a.zip)
+
+[Download for Windows](http://rannala.org/programs/BPPg.0.2.0.a.Windows.zip)
+
+[Download for Linux](http://rannala.org/programs/BPPg-linux.0.2.0.a.tgz)
+
 
 ## Static Software (Supported but not developed)
 # Disequilibrium Mapping and Likelihood Estimation (DMLE+)
