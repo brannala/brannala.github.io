@@ -45,8 +45,18 @@ few alleles (low mutation rates) such as [single nucleotide polymorphisms](https
 
 ***
 
->[3] B. Rannala and J.P. Reeve. 2003. Joint Bayesian estimation of mutation location and age using linkage disequilibrium. Pacific Symposium on Biocomputing 8:526-534. [Download](http://www.rannala.org/reprints/2003/Rannala2003b.pdf)
+>[3] B. Rannala and J.P. Reeve. 2003. Joint Bayesian estimation of mutation location and age using linkage disequilibrium. Pacific Symposium on Biocomputing 8: 526-534. [Download](http://www.rannala.org/reprints/2003/Rannala2003b.pdf)
 
 The method developed in this paper extends the allele age inference method to allow multiple linked genetic markers surrounding an allele and undergoing recombination (but assuming no mutation). It is assumed that a linkage
 map of the distances between markers (in units of cM) is available but the actual position of the allele may be unknown. A Bayesian algorithm is developed that allows the joint posterior density of the allele position and
-allele age to be estimated. In other words, the program provides a fine-scale map of the position as well as the age of an allele (usually the allele is associated with a phenotype, often a simple Mendelian disease). Two examples are presented using sample data for 23 [restriction fragment length polymorphism (RFLP)](https://en.wikipedia.org/wiki/restriction_fragment_length_polymorphism) markers spanning a total distance of 1.8 Mb from europeans carrying the most common mutation causing [cystic fibrosis (CF)](https://en.wikipedia.org/wiki/cystic_fibrosis) and analyzing a sample from the Finnish population for the mutation causing the disease [diastrophic dysplasia (DTD)](https://en.wikipedia.org/wiki/Diastrophic_dysplasia) for 2 RFLP and 3 microsatellite  markers spanning a total distance of 20 kb. 
+allele age to be estimated. In other words, the program provides a fine-scale map of the position as well as the age of an allele (usually the allele is associated with a phenotype, often a simple Mendelian disease). Two examples are presented using sample data for 23 [restriction fragment length polymorphism (RFLP)](https://en.wikipedia.org/wiki/restriction_fragment_length_polymorphism) markers spanning a total distance of 1.8 Mb from europeans carrying the most common mutation causing [cystic fibrosis (CF)](https://en.wikipedia.org/wiki/cystic_fibrosis) and analyzing a sample from the Finnish population for the mutation causing the disease [diastrophic dysplasia (DTD)](https://en.wikipedia.org/wiki/Diastrophic_dysplasia) for 2 RFLP and 3 microsatellite  markers spanning a total distance of 20 kb.
+
+# Review articles
+
+***
+
+>[4] M. Slatkin and B. Rannala. 2000. Estimating allele age. Annual Review of Genomics and Human Genetics 1: 225-249.  [Download](http://www.rannala.org/reprints/2000/Slatkin2000.pdf)
+
+***
+
+>[5] B. Rannala and G. Bertorelle. 2001. Using linked markers to infer the age of a mutation. Human Mutation 18: 87-100. [[Download](http://www.rannala.org/reprints/2001/Rannala2001b.pdf)
