@@ -19,7 +19,7 @@ This is a gnu standard library that is incredibly useful for parsing command lin
 
 **Git**
 
-Git (git) is a great tool for maintaining prior versions of your source code (or manuscripts) in an organized hierarchy. A free book on git is [here](https://git-scm.com/book/en/v2). A quick reference is [here](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf). Open source projects can be hosted for free on [github](https://github.com/) and private repositories for academic research (with some limitations) can be hosted on [bitbucket](https://bitbucket.org/). I use both. Projects on github can have web pages (gitpages) hosted as well. This website is hosted on github 
+Git (git) is a great tool for maintaining prior versions of your source code (or manuscripts) in an organized hierarchy. A free book on git is [here](https://git-scm.com/book/en/v2). A quick reference is [here](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf). Open source projects can be hosted for free on [github](https://github.com/) and private repositories for academic research (with some limitations) can be hosted on [bitbucket](https://bitbucket.org/). I use both. Projects on github can have web pages (gitpages) hosted as well. This website is hosted on github
 
 **LaTeX**
 
@@ -32,6 +32,15 @@ Here is a useful emacs command to strip all the ^M characters out replacing them
 ```
 M-x replace-string RET C-q C-m RET C-q C-j RET
 ```
+
+**Javascript Resources**
+
+***React stuff***
+React is an open source project that has developed a pretty nice language extension to Javascript. The basic idea is to have components that include both logic and presentation (rather than having logic in a javascript file, presentation in an html file, and styles in a css file). A simplified language for writing React called JSX can be used to write the code which is then transpiled into javascript using [Babel](https://babeljs.io/). Straight javascript and JSX can be mixed together in a source file as needed. Pretty cool.
+React can also use a component based approach to styling that is described in detail at [styled-components.com](https://www.styled-components.com/). I have been experimenting with React and will collect some useful
+sites together here eventually.
+
+
 
 ## Bioinformatics
 **NGS data file formats**
