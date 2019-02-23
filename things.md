@@ -40,6 +40,10 @@ React is an open source project that has developed a pretty nice language extens
 React can also use a component based approach to styling that is described in detail at [styled-components.com](https://www.styled-components.com/). I have been experimenting with React and will collect some useful
 sites together here eventually.
 
+**Proggy fonts**
+
+These are my favorite terminal fonts. Available [here](https://github.com/bluescan/proggyfonts).
+
 
 
 ## Bioinformatics
@@ -50,7 +54,3 @@ The FASTQ format appears to be emerging as a standard for next-generation sequen
 **NCI wiki**
 
 This [wiki](https://wiki.nci.nih.gov/display/TCGA/TCGA+barcode#TCGAbarcode-types "NCI barcodes") explains barcoding scheme and other features of cancer genome databases such as [GCAT](http://cancergenome.nih.gov/ "Cancer Genome Atlas").
-
-**Proggy fonts**
-
-These are my favorite terminal fonts. Available [here](http://www.proggyfonts.com/index.php?menu=download "Proggy Fonts").
