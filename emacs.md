@@ -104,6 +104,33 @@ about?](https://mickael.kerjean.me/2017/03/20/emacs-tutorial-series-episode-2/)
 provides an org mode tutorial that you can follow using the org file 
 [org-mode-tutorial.org](http://mickael.kerjean.me/assets/files/org-mode-tutorial.org)
 
+***Embedding plantuml figures in org***
+The [plantuml](http://plantuml.com/) software is a java library for displaying uml diagrams. The
+diagrams can be rendered in an emacs buffer as well and
+in a code block in an org document. The language specification is
+[here](http://plantuml.com/guide). On a mac you use `brew`
+to first install plantuml
+```
+brew install plant uml
+```
+then install the two emacs packages `plantuml-mode` and
+`flycheck-plantuml` (syntax checking). Then edit `~/.emacs.d/init.el`
+and add the following lines
+```
+(add-to-list
+  'org-src-lang-modes '("plantuml" . plantuml))
+(setq plantuml-jar-path "/usr/local/Cellar/plantuml/1.2019.3/libexec/plantuml.jar")
+```
+The adding a code block like 
+```
+#+BEGIN_SRC plantuml
+@startuml
+Alice -> Bob: test
+@enduml
+#+END_SRC
+```
+and typing `C-c '` in the block will render a diagram in an emacs buffer. Cool.
+
 **Gnus mail**
 Reading gmail in emacs is a bit complicated. I thought about
 Wanderlust but was disuaded by the lack of documentation. Finally
