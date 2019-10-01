@@ -247,6 +247,48 @@ gpg --output ~/.authinfo.gpg --symmetric ~/.authinfo
 ```
 All done. Now in emacs type `M-x mu4e` to start using mu4e for email.
 
+**Reading your google calendars in the emacs calendar**
+
+I like keeping all my appointments in several Google calendars and I am happy going to
+the Google calendar to create new events, but then I want to be able to pull up my schedule
+in the native calendar within emacs. I also want the daily tides in Benicia (which are available as
+a public ical) to be displayed in my emacs calendar (helpful for sailing). My solution was first set up private 
+calendar sharing in Google
+to provide a web address for an ical version of each of my calendars. I then wrote a shell 
+script called getical with the following contents (where ```<privateaddress>``` will be specific to your calendar) 
+```
+#!/bin/bash
+
+rm ~/calendar/*.ics
+wget -c https://calendar.google.com/calendar/ical/<privateaddress>/basic.ics -O ~/calendar/work.ics
+wget -c https://calendar.google.com/calendar/ical/<privateaddress>/basic.ics -O ~/calendar/dailyschedule.ics
+wget -c https://calendar.google.com/calendar/ical/<privateaddress>/basic.ics -O ~/calendar/reminders.ics
+wget -c https://calendar.google.com/calendar/ical/<privateaddress>/basic.ics -O ~/calendar/tides.ics
+
+rm -f ~/.emacs.d/ical-diary
+emacs --batch -l ~/bin/importical.el 
+
+```
+and created a calendar subdirectory in my home directory. The last line in the script runs a the lisp file
+```importical.el``` which contains the following code
+```
+(icalendar-import-file "~/calendar/work.ics" "~/.emacs.d/ical-diary")
+(icalendar-import-file "~/calendar/dailyschedule.ics" "~/.emacs.d/ical-diary")
+(icalendar-import-file "~/calendar/reminders.ics" "~/.emacs.d/ical-diary")
+(icalendar-import-file "~/calendar/tides.ics" "~/.emacs.d/ical-diary")
+
+```
+which imports all my calendars into a single emacs calendar called ical-diary. 
+The final step was to create a file ```~/.emacs.d/diary``` with the contents
+```
+#include "~/.emacs.d/ical-diary"
+```
+so that the ical-diary is opened by default by the emacs calendar program.
+Typing ```M-x calendar``` in emacs now brings up a calendar with all the events 
+from all my calendars.
+After making changes to my Google calendar I simply run the getical script to update
+the emacs diary.
+
 **Getting that ugly DOS ^M newline character out of your text files**
 
 I collaborate with quite a few people who use Windows and seem to be
