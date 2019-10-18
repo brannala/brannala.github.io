@@ -101,7 +101,7 @@ nice search tools using regex are available in the main window.
 
 **Preparing exams in latex**
 I recently discovered a great package called ''exam'' that is part of the standard packages in texlive.
-The package as commands for adding multiple choice questions and so on, and automatically tracks
+The package has commands for adding multiple choice questions and so on, and automatically tracks
 the total points.
 
 **Pedigrees in latex**
