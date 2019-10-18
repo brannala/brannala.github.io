@@ -99,3 +99,10 @@ like a charm so far. Ebib has some promising features like linking an
 org note to an entry and creating reading lists (as org files). Also
 nice search tools using regex are available in the main window.
 
+**Preparing exams in latex**
+I recently discovered a great package called ''exam'' that is part of the standard packages in texlive.
+The package as commands for adding multiple choice questions and so on, and automatically tracks
+the total points.
+
+**Pedigrees in latex**
+I often include pedigree questions on exams for my EVE 131 course (requiring calculation of kinship coefficients etc). Another exciting discovery I made recently was that a good latex package exists for drawing pedigrees. Just include the following packages ```\usepackage{pst-pdgr,pstricks,pst-pdf}``` and compile the file using xelatex. Information on the pst-pdgr package is [here](https://ctan.org/pkg/pst-pdgr?lang=en).
