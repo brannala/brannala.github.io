@@ -9,6 +9,7 @@ permalink: /people/
 
 ### Graduate students
 -   Sneha Chakraborty (Ph.D. student in Biostatistics)
+-   Anna Nagel (Ph.D. student in Evolution and Ecology)
 
 ### Former graduate students
 -   Huiyu Sun (M.S. Biostatistics) Data Analyst, Immune Tolerance Network, Washington, DC
@@ -23,8 +24,7 @@ permalink: /people/
 -   [Ligia Mateiu](https://www.uantwerpen.be/nl/personeel/ligia-mateiu/) (Ph.D.
     2006) Bioinformatics Team Leader, VIB Department of Molecular
     Genetics, Universiteit Antwerpen, Belgium.
--   Simon Weon-Sang Ro (Ph.D. 2005) Research Professor, Institute of Gastroenterology, Yonsei University College of
-    Medicine, Seoul, Korea.
+-   Simon Weon-Sang Ro (Ph.D. 2005) Associate Professor, Kyung Hee University, Seoul, Korea.
 -   Christina Fetterman (M.Sc. 2004)
 -   Bixia Ji (M.S. 2000 \[incomplete\]) Senior Software Engineer, [Terma Software](http://www.termasoftware.com)
 

@@ -26,6 +26,9 @@ and more." An Emacs cheat sheet can be found [here](https://www.gnu.org/software
 [Emacs stuff](/emacs/): provides a description of my emacs configuration and
 packages that I have found useful.
 
+[Sequed](https://github.com/brannala/sequed) is an emacs package I wrote for viewing alignments and manipulating DNA sequence
+data in fasta format.
+
 **Proggy fonts**
 
 These are my favorite terminal fonts. Available

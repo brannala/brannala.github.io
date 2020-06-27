@@ -12,3 +12,6 @@ permalink: /ontour/
 * May 13-24: Computational Molecular Evolution Course, Welcome Trust Centre, Hinxton, UK.
 * June 1-8: Workshop on Computational Molecular Evolution, Duke University Kunshan Campus, Kunshan, China.
 
+# Spring 2020
+* Dec 27 to Jan 5: College of Ecology and Evolution, Sun Yat Sen University, Guangzhou, China. 
+* Computational Molecular Evolution Course postponed.
